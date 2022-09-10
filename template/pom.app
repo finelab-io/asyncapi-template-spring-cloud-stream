@@ -77,6 +77,14 @@
 {%- endif %}
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+          <id>github</id>
+          <name>GitHub finetech-dk Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/finetech-dk/specs</url>
+        </repository>
+    </distributionManagement>	
+	
     <build>
         <plugins>
             <plugin>
