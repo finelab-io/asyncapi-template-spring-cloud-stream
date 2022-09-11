@@ -81,7 +81,7 @@
         <repository>
           <id>github</id>
           <name>GitHub finetech-dk Apache Maven Packages</name>
-          <url>https://maven.pkg.github.com/finetech-dk/specs</url>
+          <url>https://maven.pkg.github.com/finelab-io/specs</url>
         </repository>
     </distributionManagement>	
 	
