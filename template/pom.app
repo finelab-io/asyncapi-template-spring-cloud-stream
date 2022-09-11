@@ -80,7 +80,7 @@
     <distributionManagement>
         <repository>
           <id>github</id>
-          <name>GitHub finetech-dk Apache Maven Packages</name>
+          <name>GitHub finelab-io Apache Maven Packages</name>
           <url>https://maven.pkg.github.com/finelab-io/specs</url>
         </repository>
     </distributionManagement>	
